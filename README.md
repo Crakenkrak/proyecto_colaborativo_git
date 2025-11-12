@@ -7,5 +7,4 @@ Intentar modificar los dos el archivo al mismo tiempo y subir las modificaciones
 
 ¿Como lo resolvieron?
 
-Corrigiendo el error desde la terminal y modificando el archivo corrupto para volver
-a subirlo. H
+Corrigiendo el error desde la terminal y modificacndo el archivo corrupto para volver a subirlo. O
