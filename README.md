@@ -1,3 +1,3 @@
 Archivo README creado por Hugo Cañeque
 
-Linea a editar.
+Linea editada desde la terminal por Hugo Cañeque.
